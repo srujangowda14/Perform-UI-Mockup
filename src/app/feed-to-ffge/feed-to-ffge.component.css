@@ -1,0 +1,45 @@
+body {
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    align:center;
+    background-color:grey;
+}
+.navbar-custom {
+    background-color: #76A923;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #76A923;
+}
+
+.nav-h1{
+    color:white;
+}
+.table-main-heading{
+    background-color: #76A923;
+    color: white;
+}
+
+
+.table-sub-heading{
+   
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+
+table.table-bordered > thead > tr > th{
+    border:1px solid black;
+  }
+
+table.table-bordered > tbody > tr >td{
+    border: 1px solid black;
+}
+
+
+
+
